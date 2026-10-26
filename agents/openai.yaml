@@ -1,0 +1,4 @@
+interface:
+  display_name: "Traffic & Trend Research"
+  short_description: "Research daily to yearly demand for web apps"
+  default_prompt: "Use $traffic-trend-research to find this month’s Indonesia web app opportunities, verify demand across sources, and save a sourced report."
