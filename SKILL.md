@@ -5,6 +5,9 @@ description: Researches current search demand, social trends, competitor traffic
 
 # Traffic and trend research
 
+**Version:** 1.0.0 (V1)  
+**Author:** cubeilz
+
 Find opportunities that connect observable demand to a specific user task, a plausible acquisition channel, and a reason to return. Preserve the user's requested market, topic, period, and deliverable. Research using live sources available in the host agent; do not substitute remembered trends for current evidence.
 
 ## Choose the scope
