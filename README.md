@@ -2,6 +2,9 @@
 
 An Agent Skill for researching current search demand, social trends, competitors, and web app opportunities. It supports daily, weekly, monthly, yearly, and custom research periods, and produces dated reports with sources and clearly labeled evidence.
 
+- **Version:** 1.0.0 (V1)
+- **Author:** [cubeilz](https://github.com/cubeilz)
+
 ## What it does
 
 - Finds current signals using live sources available to the agent.
